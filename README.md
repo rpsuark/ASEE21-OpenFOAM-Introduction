@@ -4,4 +4,6 @@ The ASEE-introduction.pdf has the detail of how to install and run the case file
 
 These are part of the ASEE-2021 paper,'Incorporating Two Weeks Open Source Software Lab Module in CFD and Fluids Courses' by S. Verma, Z. Mansouri and R.P. Selvam from the Univeristy of Arkansas. Please cite this web page when you use it.
 
+This work is supported by NSF under award number CMMI-1762999 for R.P. Selvam and S. Verma. Ms. Z. Mansouri is supported by Womble Professorship.
+
 If you have any input or comments, please feel free to send it to rps@uark.edu .
